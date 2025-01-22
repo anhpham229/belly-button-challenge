@@ -21,5 +21,6 @@ The dashboard is built using JavaScript, D3.js, and Plotly for interactive data 
 To run this project locally, follow these steps:
 1.  Clone or download the repository to your local machine.
 2.  Open index.html in a web browser.
+3. Click to the deployment link for seeing the result: https://anhpham229.github.io/belly-button-challenge/
 
 The dashboard should load automatically, allowing you to select different samples from a dropdown list. Upon selection, metadata and interactive visualizations (bubble and bar charts) will be updated accordingly.
